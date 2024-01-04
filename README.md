@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name], a Full Stack Developer 🚀
+# Hi there! 👋 I'm RidzRush, a Full Stack Developer 🚀
 
 <p align="center">
   <img src="https://your-gif-url-here" alt="Full Stack Developer Animation">
@@ -26,13 +26,13 @@ Check out some of my projects that showcase my skills and creativity:
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [Your LinkedIn Profile](link-to-linkedin)
-- **Portfolio:** [Your Portfolio Website](link-to-portfolio)
+- **LinkedIn:** [RidzRush on LinkedIn](link-to-linkedin)
+- **Portfolio:** [RidzRush Portfolio](link-to-portfolio)
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ridzrush&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 ## 🎉 Let's Collaborate
@@ -48,9 +48,3 @@ I'm always open to collaboration and exploring new opportunities. If you have an
 This repository is licensed under the [MIT License](LICENSE.md). Feel free to explore, contribute, and use as a reference.
 
 Thanks for stopping by! Happy coding! 🚀
-
-
-<!---
-ridzRUSH/ridzRUSH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
