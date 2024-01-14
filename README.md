@@ -1,33 +1,28 @@
-# Hi there! 👋 I'm RidzRush, a Full Stack Developer 🚀
+# Hi there! 👋 I'm ADARSH, a Software  Developer 🚀
 
-<p align="center">
-  <img src="https://your-gif-url-here" alt="Full Stack Developer Animation">
-</p>
 
 ## 🌐 About Me
 
-Welcome to my GitHub playground! I'm passionate about crafting innovative solutions and bringing ideas to life. As a Full Stack Developer, I thrive on creating seamless, end-to-end web applications that not only look great but also deliver an exceptional user experience.
+Welcome to my GitHub playground! I'm passionate about crafting innovative solutions and bringing ideas to life. As a Software Developer, I thrive on creating seamless, end-to-end web applications that not only look great but also deliver an exceptional user experience.
 
 ## 💻 Tech Stack
 
-- **Frontend:** React, Angular, Vue.js
-- **Backend:** Node.js, Express, Django
-- **Database:** MongoDB, MySQL, PostgreSQL
-- **DevOps:** Docker, Kubernetes
-- **Cloud:** AWS, Azure
+- **Frontend:** React
+- **Backend:** Node.js, Express
+- **Database:** MongoDB, MySQL
+
 
 ## 🚀 My Projects
 
 Check out some of my projects that showcase my skills and creativity:
 
-1. [Project 1](link-to-project-1): Short project description.
-2. [Project 2](link-to-project-2): Short project description.
-3. [Project 3](link-to-project-3): Short project description.
-
+1. Hotel Booking App https://booking-app-3it8.onrender.com : use to list all your hotels and find your hotels 
+2. Patience Project patience-game.vercel.app : Play game to see that how much you can pridict time
+3.RestFul task manager api : this is basically todo api full equiped with authentication 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [RidzRush on LinkedIn](link-to-linkedin)
-- **Portfolio:** [RidzRush Portfolio](link-to-portfolio)
+- **LinkedIn:** [Adarsh on LinkedIn] (https://www.linkedin.com/in/adarsh-kumar-pandey-95242b242)
+
 
 ## 📊 GitHub Stats
 
@@ -39,12 +34,5 @@ Check out some of my projects that showcase my skills and creativity:
 
 I'm always open to collaboration and exploring new opportunities. If you have an exciting project or just want to connect, feel free to reach out!
 
-<p align="center">
-  <img src="https://your-gif-url-here" alt="Let's Collaborate Animation">
-</p>
-
-## 📜 License
-
-This repository is licensed under the [MIT License](LICENSE.md). Feel free to explore, contribute, and use as a reference.
 
 Thanks for stopping by! Happy coding! 🚀
