@@ -17,7 +17,7 @@ Welcome to my GitHub playground! I'm passionate about crafting innovative soluti
 Check out some of my projects that showcase my skills and creativity:
 
 1. Hotel Booking App https://booking-app-3it8.onrender.com : use to list all your hotels and find your hotels 
-2. Patience Project patience-game.vercel.app : Play game to see that how much you can pridict time
+2. Patience Project http://patience-game.vercel.app : Play game to see that how much you can pridict time
 3.RestFul task manager api : this is basically todo api full equiped with authentication 
 ## 📫 Let's Connect
 
